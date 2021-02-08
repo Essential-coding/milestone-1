@@ -65,4 +65,26 @@ User Goals
 
 - Use radio buttons for feedback and type a message if you have any questions.
 
-- Type email adress in the contact forum, its not a must but if you want to give feedback then you ought to do it
+- Type email adress in the contact forum, its not a must but if you want to give feedback then you ought to do it.
+
+
+## Wireframes
+
+For the wireframes i used a tool called marvelapp. It is simple and understanding and it gave the feeling of simplicity when it came 
+to drawing the wireframes , because it made the drawing and the overall look of using the tool easy without any complications.
+
+View my wireframes for different screen sizes to be more specific:
+
+- Desktop Wireframes
+
+- Tablet Wireframes
+
+- Mobile Wireframes
+
+
+
+
+
+
+
+
