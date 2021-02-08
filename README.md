@@ -70,16 +70,19 @@ User Goals
 
 ## Wireframes
 
-For the wireframes i used a tool called marvelapp. It is simple and understanding and it gave the feeling of simplicity when it came 
-to drawing the wireframes , because it made the drawing and the overall look of using the tool easy without any complications.
+For the wireframes i used a tool called [marvelapp](https://marvelapp.com/). It is simple and understanding and it gave the feeling of simplicity when it came 
+to drawing the wireframes , because it made the drawing and the overall look of using the tool easy without any complications. It was pretty easy to find what i was looking for since they had lots of of different alternatives.
 
 View my wireframes for different screen sizes to be more specific:
 
-- Desktop Wireframes
+- Desktop Wireframes 
 
 - Tablet Wireframes
 
 - Mobile Wireframes
+
+For further investigation you can click on [wireframes](https://github.com/Essential-coding/milestone-1/tree/master/wireframes). It will show you all the wireframes that i created
+for the three devices, mobile, tablet and desktop! 
 
 
 
