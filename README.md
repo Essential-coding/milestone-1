@@ -1,45 +1,68 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Animal Kingdom
+## Experience the importance and the beauty of the animal kingdom.
 
-Welcome USER_NAME,
+## UX (User Experience)
+### Project Goals
+The main goal is to provide essential information as well as educating individuals in a general way of providing a few things in detail when it comes to the animal kingdom and its wildlife in order to experience and receive some great content of knowledge that can be shared througout the world. Althought a part of the goal will be experienced by its beauty for people to realize the beauty of the animal kingdom especially in images.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+User Goals
+- Find information about serveral types of animals.
 
-## Gitpod Reminders
+- Find information about why animals matter.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+- Find information about the wildlife in general.
 
-`python3 -m http.server`
+- For feedback there is an email-forum provided with radio buttons for better clarification but also to make it more visually appealing.
 
-A blue button should appear to click: *Make Public*,
+- For more information there will exist a ''Read more'' button provided for the users that are more curios and want to access for more depth information.
 
-Another blue button should appear to click: *Open Browser*.
+- Access a video-clip of animal/animals.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- Find information about the animal food chain in basis with images and arrows provided as well as a bit of information provided.
 
-A blue button should appear to click: *Make Public*,
+- Find links to social-media such as instagram, youtube, twitter, pinterest and facebook.
 
-Another blue button should appear to click: *Open Browser*.
+### User Story
+- As a user, i would like to navigate easily without any complicated issues using the navbar as well as the links provided in the page.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- As a user, i would like to use one scrolling page to make the website simple.
 
-## Updates Since The Instructional Video
+- As a user, i would like to access the ''Read more'' buttons in a new website.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+- As a user, i would like to click/hover on images and access a piece of information about them.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+- As a user, i would like to access facebook,instagram or any other related social media applications througout the website.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+- As a user, i would like to see a few round images on a desktop and tablet and on a phone i want to see images that has the form of acard.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+- As a user, i would like to access an email-forum and type inside it as well as clicking on the radio buttons with multiple alternatives.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### My Goal as a site owner
+1. I would like to educate my users by using external resources that are ''heavily trusted'' althought some will be made up.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+2. A forum will be created for feedback from users such as is there any possible copyright issue, or experiencing any issue with site as well as is the content great and why? or needs more improvement?.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+3. As a site owner i would like to have a piece of animation such as in certain images to make the the feeling of the page look more enjoyable to use.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+4. I would like the website to be easily accessible , especially for the mobile users using a collapse navigation bar but for tablets as well.
 
---------
+5. I would like to put more design into the website rather than too much information so that the user can access different types of content easier. The Read me buttons will help with that.
 
-Happy coding!
+6. I would like to provide a few icons to make it easier for the user experience to even navigate further easier. For example links provided for different types of social-media applications.
+
+7. I want to inform my users with more information by posting a video of animal/animals.
+
+### Requirements
+- Click on the icons and the "read me buttons" to be provided with further information.
+
+- Use the navbar to navigate yourself through the site and access different locations on the page by clicking the on the navbar.
+
+- Hover/click over images for more information.
+
+- Click on the icons to access the social media applications.
+
+- Click on the video to start the video and then reclick is in order to stop the video.
+
+- Use radio buttons for feedback and type a message if you have any questions.
+
+- Type email adress in the contact forum, its not a must but if you want to give feedback then you ought to do it
