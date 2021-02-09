@@ -1,4 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
 
 
 
 
+
+/*--------------------------------------------------------------------Colors starts*/
+body{
+    background-color:black;
+}
+
+
+
+
+/*--------------------------------------------------------------------Colors ends*/
+
+
+
+/*-------------------------------------------------------------------Header starts*/
+.navbar-nav{
+    text-align:center;
+}
+
+
+#lion-logo{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    background-attachment: fixed;
+    border-radius:50%;
+}
+
+#nav-logo{
+    width: 35%;
+}
+
+
+
+#header-image{
+    background-image:url("")
+}
+
+
+
+/*-------------------------------------------------------------------Header ends*/

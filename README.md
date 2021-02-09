@@ -10,7 +10,7 @@ User Goals
 
 - Find information about why animals matter.
 
-- Find information about the wildlife in general.
+- Find information about the wildlife, forests, oceans in general.
 
 - For feedback there is an email-forum provided with radio buttons for better clarification but also to make it more visually appealing.
 
@@ -83,6 +83,12 @@ View my wireframes for different screen sizes to be more specific:
 
 For further investigation you can click on [wireframes](https://github.com/Essential-coding/milestone-1/tree/master/wireframes). It will show you all the wireframes that i created
 for the three devices, mobile, tablet and desktop! 
+
+
+
+
+
+
 
 
 
