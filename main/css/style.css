@@ -30,8 +30,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    width:100%;
-    background-attachment: fixed;
+    width:80%;
     border-radius:50%;
 }
 
@@ -42,9 +41,54 @@ body{
 
 
 #header-image{
-    background-image:url("")
+    background-image:url("/main/images/elephant.jpg");
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:20em;
+}
+
+#text-block{
+    text-align: center;
+    font-size: 4em;
+    letter-spacing: 0.1em;
+    color:rgba(250, 250, 150, 0.5);
+    position:relative;
+    bottom:0.3em;
+}
+
+
+@media screen and (min-width: 320px) {  /* For very small mobile devices*/
+    #text-block{
+    text-align: center;
+    font-size: 4em;
+    letter-spacing: 0.1em;
+    color:rgba(250, 250, 150, 0.5);
+    position:relative;
+    bottom:0.3em;
+}
+}
+
+@media screen and (min-width: 375px){ /*For Medium and Large mobile devices*/
+    #text-block{
+    text-align: center;
+    font-size: 5em;
+    letter-spacing: 0.1em;
+    color:rgba(250, 250, 150, 0.5);
+    position:relative;
+    bottom:0.3em;
+}
 }
 
 
 
 /*-------------------------------------------------------------------Header ends*/
+
+
+#main-content{
+    background-color:yellow;
+    height: 30em;
+
+}
+
